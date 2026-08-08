@@ -4,9 +4,9 @@ Development of classical machine learning and other statistical algorithms from 
 
 **Algorithms**
 
-- Linear Regression
-- Logistic Regression
-- K means Clustring
-- PCA
-- Decision Trees
-- Random Forest
+- [x] Linear Regression — Gradient Descent
+- [ ] Logistic Regression
+- [ ] K-Means Clustering
+- [ ] PCA
+- [ ] Decision Trees
+- [ ] Random Forest
